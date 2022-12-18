@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subin
+# 👋 Hi, I’m Subin
 - 👀 I’m interested in Webdev, Python and bikes.
 - 🌱 I’m currently learning React
 - 📫 How to reach me - subinwilfred@gmail.com
