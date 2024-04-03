@@ -5,15 +5,15 @@
 📫 Reach me at - [subinwilfred@gmail.com](mailto:subinwilfred@gmail.com)
 <h3 align="left">Find me on -</h3>
 <p align="left">
-<a href="https://twitter.com/heckyoo"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/in/subin-wilfred"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/subin.wilfred"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/heckyoo"><img src="https://skillicons.dev/icons?i=twitter" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/subin-wilfred"><img src="https://skillicons.dev/icons?i=linkedin" height="35" width="40" /></a>
+<a href="https://instagram.com/subin.wilfred"><img src="https://skillicons.dev/icons?i=instagram" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">I guess I know -</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,javascript,cpp,typescript,cs,linux" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,javascript,cpp,typescript,cs,linux" height="40" width="450" />
   </a>
 </p>
 
