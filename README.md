@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Subin
 ## B.Tech CSE graduate from [RIT Kottayam](rit.ac.in).
-👀 I’m interested in Webdev, Python and bikes.
+👀 I’m interested in Webdev, Python and bikes.<br>
 🌱 I’m currently learning - <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react" width="25" height="22"/> </a><br>
 📫 Reach me at - [subinwilfred@gmail.com](mailto:subinwilfred@gmail.com)
 <h3 align="left">Connect with me:</h3>
